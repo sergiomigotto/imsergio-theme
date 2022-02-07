@@ -5,63 +5,63 @@ other = "…"
 other = ": "
 
 [minute]
-one = "min"
-other = "mins"
+one = "minuto"
+other = "minuti"
 
 [tocTitle]
-other = "Contents"
+other = "Contenuti"
 
 [readMore]
-other = "Read More"
+other = "Leggi tutto"
 
 [prevPage]
-other = "Newer"
+other = "Successivi"
 
 [nextPage]
-other = "Older"
+other = "Precedenti"
 
 [copy]
-other = "Copy"
+other = "Copia"
 
 [copied]
-other = "Copied!"
+other = "Copiato!"
 
 [copyrightAuthor]
-other = "Author"
+other = "Autore"
 
 [copyrightLink]
 other = "Link"
 
 [copyrightLicense]
-other = "License"
+other = "Licenza"
 
 [shareOn]
-other = "Share on:"
+other = "Condividi su:"
 
 [shareOnTitle]
-other = "Share on "
+other = "Condividi su"
 
 [shareViaTitle]
-other = "Share via "
+other = "Invia"
 
 [relatedPosts]
-other = "See Also:"
+other = "Leggi anche:"
 
 [loadComments]
 other = "Load Comments?"
 
 [pageNotFound]
-other = "404 - Page not found"
+other = "404 - Pagina non trovata"
 
 [fofLinkText]
-other = "Take Me Home"
+other = "Portami alla Home"
 
 [searchResultsTitle]
-one = "Found one result for “{{ .Term }}”"
-other = "Found {{ .Count }} results for “{{ .Term }}”"
+one = "Trovato un risultato per “{{ .Term }}”"
+other = "Trovati {{ .Count }} risultati per “{{ .Term }}”"
 
 [searchResultsNone]
-other = "No results found for “{{ .Term }}”"
+other = "Niente da fare, non abbiamo trovato nessun risultato per “{{ .Term }}”"
 
 
 # Socials
@@ -98,40 +98,40 @@ other = "QR Code"
 # Used for `i18nMonth`
 
 [january]
-other = "January"
+other = "Gennaio"
 
 [february]
-other = "February"
+other = "Febbraio"
 
 [march]
-other = "March"
+other = "Marzo"
 
 [april]
-other = "April"
+other = "Aprile"
 
 [may]
-other = "May"
+other = "Maggio"
 
 [june]
-other = "June"
+other = "Giugno"
 
 [july]
-other = "July"
+other = "Luglio"
 
 [august]
-other = "August"
+other = "Agosto"
 
 [september]
-other = "September"
+other = "Settembre"
 
 [october]
-other = "October"
+other = "Ottobre"
 
 [november]
-other = "November"
+other = "Novembre"
 
 [december]
-other = "December"
+other = "Dicembre"
 
 
 # Numbers
