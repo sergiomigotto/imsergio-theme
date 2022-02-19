@@ -4,7 +4,7 @@
 name = "imsergio-theme"
 license = "MIT"
 licenselink = "https://github.com/sergiomigotto/imsergio-theme/LICENSE"
-description = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+description = "This theme is a powerful and highly customizable GoHugo theme for personal blogs."
 homepage = "https://github.com/sergiomigotto/imsergio-theme/"
 tags = ["Blog", "Minimal", "Clean", "Typography", "Multilingual"]
 features = ["Dark Mode", "MathJax", "KaTeX", "JSON-LD", "Drop Cap", "PWA", "TOC"]
